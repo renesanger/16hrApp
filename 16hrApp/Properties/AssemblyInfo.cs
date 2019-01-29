@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("_16hrApp")]
+[assembly: AssemblyTitle("_16hr")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("_16hrApp")]
+[assembly: AssemblyProduct("_16hr")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f50052ac-7e5c-4b54-9db5-b507c97c6400")]
+[assembly: Guid("8ea212ad-a0e8-4166-b0ba-7671d4e62aa5")]
 
 // Version information for an assembly consists of the following four values:
 //
