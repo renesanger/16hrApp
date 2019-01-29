@@ -1,0 +1,34 @@
+﻿@model IEnumerable<_16hrApp.Models.ToDoListItem>
+
+@{
+    ViewBag.Title = "To Do List";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<h5>Monday</h5>
+<div> @Html.Action("Monday", "ToDoList") </div>
+
+<hr />
+
+<h5>Tuesday</h5>
+<div> @Html.Action("Tuesday", "ToDoList") </div>
+
+<hr />
+
+<h5>Wenesday</h5>
+<div> @Html.Action("Wednesday", "ToDoList") </div>
+
+<hr />
+
+<h5>Thursday</h5>
+<div> @Html.Action("Thursday", "ToDoList") </div>
+
+<hr />
+
+<h5>Friday</h5>
+<div> @Html.Action("Friday", "ToDoList") </div>

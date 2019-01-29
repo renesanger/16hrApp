@@ -1,0 +1,33 @@
+﻿@model IEnumerable<_16hrApp.Models.ToDoListItem>
+
+@{   
+    var total = 0;
+    var over = false;
+}
+
+<div> You Spent...</div>
+
+@foreach (var item in Model) {
+
+    <div>
+            
+            @Html.DisplayFor(modelItem => item.Duration)
+            hours to
+            @Html.DisplayFor(modelItem => item.Task)
+    </div>
+    total += item.Duration;
+}
+
+<div>For a total of @total hours</div>
+
+@{
+    if(total>24)
+    {
+        <div>Manage your Time! You've exceeded 24 hours!</div>
+    }
+    else{
+        var remaining = 24 - total;
+        <div>You have @remaining hours left in your day.</div>
+}
+}
+
