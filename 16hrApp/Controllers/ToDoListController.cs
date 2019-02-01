@@ -136,8 +136,8 @@ namespace _16hrApp.Controllers
         {
             if (ModelState.IsValid)
             {
-                _db.Entry(item).State = EntityState.Modified;
-                _db.SaveChanges();
+                //_db.Entry(item).State = EntityState.Modified;
+                //_db.SaveChanges();
                 return RedirectToAction("Index");
             }
 

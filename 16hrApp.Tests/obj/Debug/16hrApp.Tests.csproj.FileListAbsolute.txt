@@ -80,3 +80,7 @@ C:\Users\Rudy D\Desktop\16hrApp\16hrApp.Tests\bin\Debug\zh-Hant\System.Spatial.r
 C:\Users\Rudy D\Desktop\16hrApp\16hrApp.Tests\obj\Debug\16hrApp.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Rudy D\Desktop\16hrApp\16hrApp.Tests\obj\Debug\16hrApp.Tests.dll
 C:\Users\Rudy D\Desktop\16hrApp\16hrApp.Tests\obj\Debug\16hrApp.Tests.pdb
+C:\Users\croomuser\Desktop\github\16hrApp\16hrApp.Tests\obj\Debug\16hrApp.Tests.csprojAssemblyReference.cache
+C:\Users\croomuser\Desktop\github\16hrApp\16hrApp.Tests\obj\Debug\16hrApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\croomuser\Desktop\github\16hrApp\16hrApp.Tests\obj\Debug\16hrApp.Tests.dll
+C:\Users\croomuser\Desktop\github\16hrApp\16hrApp.Tests\obj\Debug\16hrApp.Tests.pdb
